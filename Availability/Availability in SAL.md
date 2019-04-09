@@ -12,7 +12,7 @@ The concept of availability is fundamental to SAL and its functioning. When we u
 
 Both Advisors and students view and use availability blocks to set up advising appointments at appropriate times (i.e., times when the advisor is available).
 
-Here is how availability blocks look in the Salesforce calendar:![image alt text](https://github/johimage_0.png)
+Here is how availability blocks look in the Salesforce calendar:![image alt text](https://github/johnmarco/RefGuide/blob/master/Availability/image_0.png)
 
 In the Appointment Manager, availability blocks appear as shown below:
 
@@ -145,5 +145,5 @@ The best way to view availability events and the data associated with them is th
 In cases where the SAL instance has been configured to do so, the Record Type and Event type for the event can be viewed by selecting the *More Details* link.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NTYxNjIxMSwxNzkwMjE3NDI3XX0=
+eyJoaXN0b3J5IjpbMjE0NjMzNzExNywxNzkwMjE3NDI3XX0=
 -->
