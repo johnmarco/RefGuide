@@ -2,7 +2,12 @@
 
 The concept of availability is fundamental to SAL and its functioning. When we use the term "availability," we're referring to the blocks of time when advisors are available to meet with students. These times—called “availability blocks”—appear in multiple places within SAL, including:
 
-HERE IS OUR SAMPLE TEXT. WE ARE TESTING HOW TO DO A PULL REQUEST.
+
+
+
+SECOND TEST. I WANT TO KNOW HOW PRS WORK.
+
+
 
 * The Scheduling Wizard
 
