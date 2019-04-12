@@ -145,7 +145,7 @@ The best way to view availability events and the data associated with them is th
 In cases where the SAL instance has been configured to do so, the Record Type and Event type for the event can be viewed by selecting the *More Details* link.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNDgwMzEzNSwtNjk5ODM2MjE1LDc3Mz
-AzMzEwNyw3NzMwMzMxMDcsLTcwMjM0NTk2NSwxNzkwMjE3NDI3
-XX0=
+eyJoaXN0b3J5IjpbNzczMDMzMTA3LC01MTQ4MDMxMzUsLTY5OT
+gzNjIxNSw3NzMwMzMxMDcsNzczMDMzMTA3LC03MDIzNDU5NjUs
+MTc5MDIxNzQyN119
 -->
