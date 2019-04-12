@@ -2,16 +2,6 @@
 
 The concept of availability is fundamental to SAL and its functioning. When we use the term "availability," we're referring to the blocks of time when advisors are available to meet with students. These times—called “availability blocks”—appear in multiple places within SAL, including:
 
-
-
-
-SECOND TEST. I WANT TO KNOW HOW PRS WORK.
-
-
-And now I go back into the file, and i make more changes, like adding this sentance. But I still haven't created a pull request.
-
-
-
 * The Scheduling Wizard
 
 * The Appointment Manager
@@ -155,7 +145,7 @@ The best way to view availability events and the data associated with them is th
 In cases where the SAL instance has been configured to do so, the Record Type and Event type for the event can be viewed by selecting the *More Details* link.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNDgwMzEzNSwtNjk5ODM2MjE1LDc3Mz
-AzMzEwNyw3NzMwMzMxMDcsLTcwMjM0NTk2NSwxNzkwMjE3NDI3
-XX0=
+eyJoaXN0b3J5IjpbNzczMDMzMTA3LC01MTQ4MDMxMzUsLTY5OT
+gzNjIxNSw3NzMwMzMxMDcsNzczMDMzMTA3LC03MDIzNDU5NjUs
+MTc5MDIxNzQyN119
 -->
